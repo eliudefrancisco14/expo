@@ -13,6 +13,7 @@
 
 ### 🐛 Bug fixes
 
+- [Web] Improve transition behavior when switching back and forth two sources.
 - [Web] Prevent breaking in static rendering environments. ([#21883](https://github.com/expo/expo/pull/21883) by [@EvanBacon](https://github.com/EvanBacon))
 
 ### 💡 Others
