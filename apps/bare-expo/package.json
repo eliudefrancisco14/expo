@@ -67,6 +67,7 @@
     "@react-native-masked-view/masked-view": "0.2.8",
     "@react-native-picker/picker": "2.4.8",
     "@react-native-segmented-control/segmented-control": "2.4.0",
+    "@react-navigation/native-stack": "^6.9.12",
     "@shopify/flash-list": "1.4.0",
     "expo": "~48.0.0-beta.0",
     "expo-camera": "~13.2.0",

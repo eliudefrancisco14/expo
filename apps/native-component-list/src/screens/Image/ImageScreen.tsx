@@ -90,6 +90,13 @@ export const ImageScreens = [
       return optionalRequire(() => require('./ImageGifsScreen'));
     },
   },
+  {
+    name: 'Navigating with shared element transition',
+    route: 'image/navigation',
+    getComponent() {
+      return optionalRequire(() => require('./ImageNavigationScreen'));
+    },
+  },
 ];
 
 if (Platform.OS === 'ios') {
