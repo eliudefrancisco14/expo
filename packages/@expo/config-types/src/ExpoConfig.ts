@@ -212,6 +212,10 @@ export interface ExpoConfig {
     requestHeaders?: {
       [k: string]: any;
     };
+    /**
+     * Whether to retain legacy Expo classic updates default behavior for various tools.
+     */
+    useClassicUpdates?: boolean;
   };
   /**
    * Provide overrides by locale for System Dialog prompts like Permissions Boxes
